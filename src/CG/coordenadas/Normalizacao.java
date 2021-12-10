@@ -1,10 +1,5 @@
 package cg.coordenadas;
 
-/**
- * Realiza as transformacoes entre os diferentes tipos de sistemas de coordenadas.
- * 
- * @author Danilo
- */
 public class Normalizacao {
 
     private static double ndcx;
